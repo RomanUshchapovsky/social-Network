@@ -1,0 +1,21 @@
+.descriptionBlock {
+    display: flexbox;
+    padding: 10px;
+}
+.photoBlock {
+    max-width: 200px;
+    position: relative;
+}
+.mainPhoto {
+    max-width: 100%;
+}
+.contact {
+    padding-left: 10px;
+}
+.save {
+    margin: 10px 0 5px 55px;
+    width: 80px;
+    background-color: palevioletred;
+    border-style: none;
+    border-radius: 50px;
+}
